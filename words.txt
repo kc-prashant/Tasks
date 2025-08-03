@@ -1,0 +1,1 @@
+This is sample for word counter, let's check if it counts words correctly or not.
